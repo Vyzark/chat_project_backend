@@ -1,0 +1,18 @@
+{
+    "cSpell.words": ["Girón"],
+    "workbench.colorCustomizations": {
+        "sash.hoverBorder": "#ecd708",
+        "titleBar.activeBackground": "#bbaa06",
+        "titleBar.inactiveBackground": "#bbaa0699",
+        "tab.activeBorder": "#ecd708",
+        "statusBar.background": "#bbaa06",
+        "statusBarItem.hoverBackground": "#8a7d04",
+        "statusBarItem.remoteBackground": "#bbaa06",
+        "commandCenter.border": "#15202b99",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#bbaa06"
+}
